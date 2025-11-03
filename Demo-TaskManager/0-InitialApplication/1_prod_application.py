@@ -42,3 +42,4 @@ artists_list = [lizzo, nicki_minaj, benson_boone, azelia_banks]
 print(artists_list)
 
 # test two
+new_list = [1,2,3]
