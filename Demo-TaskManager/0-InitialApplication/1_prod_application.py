@@ -43,3 +43,14 @@ print(artists_list)
 
 # test two
 new_list = [1,2,3]
+
+t = 'Taylor Swift'
+
+def artist(arg1: str) -> None:
+    print(f'And the Grammy goes to... {arg1}!')
+
+s = artist(t)
+print(s)
+
+
+
