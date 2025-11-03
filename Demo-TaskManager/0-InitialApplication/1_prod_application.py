@@ -31,7 +31,7 @@ while True:
         print("Invalid choice.")
         print("-" * 50)
 
-
+todo_list()
 # this is a test lol
 lizzo = "flautist"
 nicki_minaj = "rapper"
